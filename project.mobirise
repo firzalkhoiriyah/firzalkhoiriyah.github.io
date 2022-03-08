@@ -59,7 +59,7 @@
     "gdpr": false,
     "uniqCompNum": 7,
     "versionPublish": "5.6.0",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png"
   },
   "pages": {
