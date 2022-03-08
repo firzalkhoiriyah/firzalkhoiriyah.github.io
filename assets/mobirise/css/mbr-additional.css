@@ -749,7 +749,7 @@ a {
 }
 .cid-sFGMsvHDIa .dropdown-menu,
 .cid-sFGMsvHDIa .navbar.opened {
-  background: #5f6366 !important;
+  background: #98dee8 !important;
 }
 .cid-sFGMsvHDIa .nav-item:focus,
 .cid-sFGMsvHDIa .nav-link:focus {
@@ -783,7 +783,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(95, 99, 102, 0.6);
+  background: rgba(152, 222, 232, 0.6);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -923,7 +923,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sFGMsvHDIa .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #5f6366;
+  background: #98dee8;
 }
 .cid-sFGMsvHDIa .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1025,9 +1025,7 @@ a {
   }
 }
 .cid-sFGMfPD7iT {
-  padding-top: 17rem;
-  padding-bottom: 16rem;
-  background-image: url("../../../assets/images/mbr.jpg");
+  background-image: url("../../../assets/images/img20220127120410.jpg");
 }
 .cid-sFGMfPD7iT .mbr-section-title {
   text-align: center;
@@ -1036,12 +1034,12 @@ a {
 .cid-sFGMfPD7iT .mbr-text,
 .cid-sFGMfPD7iT .mbr-section-btn {
   text-align: center;
-  color: #5f6366;
+  color: #000000;
 }
 .cid-sFGNHRkFsi {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #fafafa;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-sFGNHRkFsi .card-wrapper {
   display: flex;
@@ -1084,7 +1082,11 @@ a {
 .cid-sFGNGNNW5A {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #fafafa;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-sFGNGNNW5A .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
 }
 .cid-sFGNGNNW5A img,
 .cid-sFGNGNNW5A .item-img {
@@ -1142,7 +1144,7 @@ a {
 .cid-sFGTcFRqw0 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/img20220127120410.jpg");
 }
 .cid-sFGTcFRqw0 .mbr-overlay {
   background-color: #ffffff;
@@ -1209,6 +1211,6 @@ a {
 .cid-sFGSOnwtIp {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #4d6d9a;
+  background-color: #65c6d4;
   overflow: hidden;
 }
